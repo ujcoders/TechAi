@@ -1,0 +1,9 @@
+composer require thiagoalessio/tesseract_ocr
+
+
+composer install
+
+
+php artisan migrate:fresh
+
+
